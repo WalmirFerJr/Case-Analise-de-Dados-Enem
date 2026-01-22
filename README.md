@@ -4,8 +4,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458)
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
 
-Este projeto foi desenvolvido como parte de um Case Técnico de Dados. O objetivo foi automatizar o tratamento de uma base de dados educacional ("Prova Única") e extrair insights estratégicos para apoiar a tomada de decisão pedagógica.
-
 ---
 
 ## 🎯 Objetivos do Projeto
